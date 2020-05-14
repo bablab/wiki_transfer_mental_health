@@ -14,6 +14,9 @@ description: "Brief description"
 
 # Introduction
 
+
+Mental health issues are a prominent and growing concern on college campuses. Although there are many resources on UCLA campus that contribute to student well-being, there are certain populations who may be in need of specialized support. Transfer students in particular encounter several risk factors that may make their transition to a four-year university all the more difficult. However, much of the literature surrounding the transfer experience focuses on academic achievement and pays scant attention to mental health outcomes. This study explores the relationship between being a transfer student and subsequent mental health outcomes. In addition, we explored the effectiveness of campus mental health resources in the student population.
+
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(

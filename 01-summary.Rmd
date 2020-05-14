@@ -1,0 +1,43 @@
+---
+title: "01-summary"
+author: "Chloe"
+date: "5/14/2020"
+output: html_document
+---
+
+## Summary
+
+The UCLA Student Mental Health Study examines how different entry pathways to college education (e.g., transfer or traditional routes) influence student mental health. The study also examines how institutional resources can improve mental health in the face of the existing challenges students encounter.
+
+This is an anonymous online survey taken in one sitting (approximately one hour). The survey is compiled of twenty short questionnaires that ask about demographic information, mental health symptoms, utilization of UCLA resources/communities, student perceptions of UCLA resources/communities, and other experiences you may encounter as a student.
+
+
+N = 368
+
+----------------------
+
+## Keywords
+
+transfer student, mental health, risk, resilience, social
+
+----------------------
+
+## Background
+
+The college climate is one in which stress is becoming increasingly prevalent. In fact, the 2008 national survey of counseling survey directors reported an increase in crisis counseling on college campuses (Gallagher, 2008). Reports of depression and suicide are also of increasing concern on college campuses (Mackenzie et al., 2011). Within the college population, there are a subset of students who have transferred to the university from a community college. This population comprises a large portion of UCLA in particular, as the institution offered admission to nearly 5,600 transfer students in the year 2018 alone (Vazquez, 2018). Historically, transfer students come from working class backgrounds and struggle to balance school with their financial responsibilities (Rhine & Milligan, 2000). Studies show that the transition process from community college to a four-year institution can be difficult because transfers experience potential risk factors such as: low social connectedness, financial issues, and transfer shock (Townsend & Wilson,2010; Rhine, Milligan, & Nelson, 2000; Packard et al., 2011; Mehr & Daltry, 2016; Rhine et al., 2000). 
+
+Although we know that social support is vital to a successful college transition, transfer students often live off campus, focus heavily on attaining their degree and have job responsibilities, which further isolate them from socializing with their peers (Townsend & Wilson, 2010). Unfortunately the literature shows that academic and social factors such as the ones stated above, often accumulate in high attrition rates and student dropout, a phenomenon so popular it is now referred to as “transfer shock” (Rhine et al., 2000). 
+
+Other studies show that transfer students also experience mental health issues such as depression and anxiety (Au, 2011; Mackenzie et al., 2011; Gallagher, 2008). Although UCLA offers resources such as Counseling and Psychological Services (CAPS), recreational services and programs to ease the transition process, how such programs relate to the transfer student experience or their mental health outcomes remains unknown. Though transfer students are a particularly vulnerable population who experience an abundance of risk factors, the existing literature heavily focuses on transfers academic outcomes with relatively scant attention paid to their mental health outcomes. 
+
+Moreover, there is no one study that investigates mental health in the context of social and institutional risk and resilience factors within the transfer student population, which limits the clinical utility of the existing data. In this study, we examined mental health outcomes within first-year transfer and traditional college students at UCLA, and assess interpersonal (e.g., social), and institutional (e.g., psychological service access) risk and resilience factors that could moderate the mental health outcomes.
+
+----------------
+
+## Specific Aims
+
+1. Determine if there are differential risk and resilience factors experienced by first-year transfer students and first-year traditional students at UCLA.
+2. Identify whether first-year transfer students experience higher mental distress than traditional first-year students at UCLA.
+3. Establish whether risk factors (which are hypothesized to be higher in transfer students) are associated with poorer mental health outcomes.
+4. Determine if resilience factors can moderate the association between risk factors and mental health outcomes in the transfer student population.
+
