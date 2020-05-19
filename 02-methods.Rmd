@@ -80,6 +80,15 @@ Students answered surveys anonymously online through RedCap. These surveys asses
 20. Perceived_social_support 
 21. Recreational_activities
 22. transfer_shock
+
+### Attention Checks
+
+1. Financial_well_being: <br>
+*It is crucial that you are paying full attention to the study. Please tick “Very well"*
+2. Perceived_social_support: <br>
+*To ensure that you are giving this study your complete attentiveness, please select “Strongly Agree”*
+3. Caps: <br>
+*For this question, please click number 3*
  
 
 ### Recruitment
