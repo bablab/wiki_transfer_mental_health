@@ -62,7 +62,7 @@ Students answered surveys anonymously online through RedCap. These surveys asses
 2. Pss
 3. Bai
 4. Club_involvement
-5.Psqi 
+5. Psqi 
 6. Dass
 7. Wemwbs
 8. Commuting_status 
@@ -79,7 +79,7 @@ Students answered surveys anonymously online through RedCap. These surveys asses
 19. Imposter_syndrome
 20. Perceived_social_support 
 21. Recreational_activities
-22. transfer_shock
+22. Transfer_shock
 
 ### Attention Checks
 
